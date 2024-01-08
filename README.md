@@ -1,4 +1,4 @@
-# Aulas_Pygame
+# Aulas Pygame
 Projeto: Introdução a Programação Através do Desenvolvimento de Jogos Digitais
 
 Disponibilizado no youtube no canal Enxurrada de Bits CEFET-MG
